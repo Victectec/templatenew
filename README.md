@@ -1,3 +1,3 @@
 # templatenew
-# neste projeto eu farei uma pagina com links pata receitas básicas
-# para tresta ros meus conhecimento em HTML
+# neste projeto eu farei uma pagina com links para receitas básicas
+# para teestar os meus conhecimento de HTML
